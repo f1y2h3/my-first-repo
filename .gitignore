@@ -1,0 +1,23 @@
+# 系统自动生成、不用传的文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
+~$*
+
+# 编辑器/IDE 的本地配置（按需放开注释）
+# .vscode/
+# .idea/
+
+# 单片机/编译产物（以后传真项目时很有用）
+# *.o
+# *.obj
+# *.hex
+# *.bin
+# *.axf
+# build/
+# DebugConfig/
+# RTE/
